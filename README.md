@@ -1,7 +1,9 @@
 ## Hi, I'm Suwathi Raja 👋
 
 🎓 Master's Student in Business Analytics at State University of New York at Buffalo
+
 🔐 Aspiring Cybersecurity Professional   
+
 📍 Austin, TX 
 
 ## About me
