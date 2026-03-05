@@ -29,7 +29,13 @@ I am passionate about strengthening security posture through automation, analyti
 - OKTA, Splunk, Microsoft o365, Power Bi, Tableau
 
 ## Relevant Coursework
-- Cybersecurity Privacy and Ethics, Cybersecurity Analytics, Database Management Systems, Spreadsheet for Business, Statistical Foundations, Predictive and Prescriptive Analytics, Cloud Data Warehousing
+- Cybersecurity Privacy and Ethics, Cybersecurity Analytics, Database Management Systems, Spreadsheet for Business, Statistical Foundations, Predictive and Prescriptive Analytics, Cloud Data Warehousing.
+
+ | Degree / Certification       | Institution / University          | Year        | Grade / CGPA |
+|-------------------------------|---------------------------------|------------|-------------|
+| B.Sc. Computer Science        | XYZ University                  | 2022       | 8.5/10      |
+| M.Sc. Cybersecurity           | ABC University                  | 2024       | 9.0/10      |
+| OSCP (Offensive Security)     | Offensive Security              | 2025       | -           |
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/suwathi-raja-8792a41a9/
