@@ -14,7 +14,8 @@ I am passionate about strengthening security posture through automation, analyti
 
 ## Certifications 
 -  Certified in Cybersecurity(CC) - ISC2
-- Preparing for Microsoft SC-900
+- Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+- Preparing for CompTIA Security+ 
 
 ## Knowledge Areas
 - Cybersecurity Risk Management, IT Governance, Regulatory Compliance, Incident Response, Internal Controls Evaluation, Risk Assessment, Business Continuity & Disaster Recovery, Cloud Security Architecture, Privacy Governance, Data Governance, Security Due Diligence, Security Awareness.
