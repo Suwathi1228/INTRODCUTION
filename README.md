@@ -15,6 +15,8 @@ I am passionate about strengthening security posture through automation, analyti
 ## Certifications 
 -  Certified in Cybersecurity(CC) - ISC2
 - Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+- Microsoft AB-900:Copilot and Agent Administration Fundamentals
+- Introduction to Cybersecurity - CISCO
 - Preparing for CompTIA Security+ 
 
 ## Knowledge Areas
